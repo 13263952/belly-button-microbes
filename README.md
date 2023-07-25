@@ -13,7 +13,7 @@ This interactive dashboard allows users to explore the Belly Button Biodiversity
 
 ## Project Overview
 
-The Belly Button Biodiversity Interactive Dashboard is built using D3.js and Plotly.js libraries to visualize the dataset. The main features of the dashboard include a horizontal bar chart, a bubble chart, and the display of sample metadata. Additionally, there is an optional advanced feature of a gauge chart to plot the weekly washing frequency of individuals.
+The Belly Button Biodiversity Interactive Dashboard is built using D3.js and Plotly.js libraries to visualize a dataset. The main features of the dashboard include a horizontal bar chart, a bubble chart, and the display of sample metadata. Additionally, there is an optional advanced feature of a gauge chart to plot the weekly washing frequency of individuals.
 
 ## Actions Taken
 
